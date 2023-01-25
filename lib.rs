@@ -2,7 +2,7 @@
 use ink_lang as ink;
 
 #[ink::contract]
-mod peer_name_service {
+mod Decentralised_Naming_Service {
 
     use ink_prelude::vec::Vec;
 
